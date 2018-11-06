@@ -1,0 +1,7 @@
+C:\Users\bartk\source\repos\MaxSumOfPath\MaxSumOfPath\bin\Debug\MaxSumOfPath.exe.config
+C:\Users\bartk\source\repos\MaxSumOfPath\MaxSumOfPath\bin\Debug\MaxSumOfPath.exe
+C:\Users\bartk\source\repos\MaxSumOfPath\MaxSumOfPath\bin\Debug\MaxSumOfPath.pdb
+C:\Users\bartk\source\repos\MaxSumOfPath\MaxSumOfPath\obj\Debug\MaxSumOfPath.csproj.CoreCompileInputs.cache
+C:\Users\bartk\source\repos\MaxSumOfPath\MaxSumOfPath\obj\Debug\MaxSumOfPath.exe
+C:\Users\bartk\source\repos\MaxSumOfPath\MaxSumOfPath\obj\Debug\MaxSumOfPath.pdb
+C:\Users\bartk\source\repos\MaxSumOfPath\MaxSumOfPath\obj\Debug\MaxSumOfPath.csprojResolveAssemblyReference.cache
